@@ -102,7 +102,11 @@
 }
 
 #skills{
-  color: #64a19d;;
+  color: #64a19d;
+}
+
+#projects{
+  color: #64a19d;
 }
 @media (prefers-reduced-motion: no-preference) {
   :root {
